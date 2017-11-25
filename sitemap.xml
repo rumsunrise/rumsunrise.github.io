@@ -4,7 +4,15 @@
     
     <url>
      <loc>http://rumsunrise.com/</loc>
-     <lastmod>2017-11-25</lastmod>
+     <lastmod>2017-11-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://rumsunrise.com/coastline-changelog.en/</loc>
+     <lastmod>2017-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +20,7 @@
     
     <url>
      <loc>http://rumsunrise.com/coastline-editor/</loc>
-     <lastmod>2017-11-25</lastmod>
+     <lastmod>2017-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +28,7 @@
     
     <url>
      <loc>http://rumsunrise.com/contacts/</loc>
-     <lastmod>2017-11-25</lastmod>
+     <lastmod>2017-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +36,7 @@
     
     <url>
      <loc>http://rumsunrise.com/news-archive/</loc>
-     <lastmod>2017-11-25</lastmod>
+     <lastmod>2017-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,26 +44,32 @@
     
         
     <url>
+     <loc>http://rumsunrise.com/ru/coastline-changelog.ru/</loc>
+     <lastmod>2017-11-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>http://rumsunrise.com/ru/coastline-editor/</loc>
-     <lastmod>2017-11-25</lastmod>
+     <lastmod>2017-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://rumsunrise.com/ru/contacts/</loc>
-     <lastmod>2017-11-25</lastmod>
+     <lastmod>2017-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://rumsunrise.com/ru/</loc>
-     <lastmod>2017-11-25</lastmod>
+     <lastmod>2017-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://rumsunrise.com/ru/news-archive/</loc>
-     <lastmod>2017-11-25</lastmod>
+     <lastmod>2017-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
